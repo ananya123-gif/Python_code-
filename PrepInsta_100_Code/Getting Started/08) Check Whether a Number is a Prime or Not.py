@@ -1,5 +1,5 @@
-# Check Whether a Number is a Prime or Not in Python
-# Given an integer input the objective is to write a program to Check Whether a Number is a Prime or Not in Python Language.
+# Check Whether a Number is a Prime or Not.
+# Given an integer input the objective is to write a program to Check Whether a Number is a Prime or Not.
 
 # Example
 # Input : 11
