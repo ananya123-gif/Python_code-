@@ -1,4 +1,4 @@
-#Check Whether a Number is Even or Odd in Python
+#Check Whether a Number is Even or Odd
 def even_or_odd(num):
     if(num%2==0):
         print(num,"is Even")
