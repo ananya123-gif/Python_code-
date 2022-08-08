@@ -1,4 +1,4 @@
-#Check if a Number is Positive and Negative in Python
+#Check if a Number is Positive and Negative.
 def positive_or_negative(num):
     if(num>0):
         print(num," is Positive")
