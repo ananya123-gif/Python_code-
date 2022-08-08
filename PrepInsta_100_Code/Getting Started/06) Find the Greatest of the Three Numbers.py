@@ -4,7 +4,6 @@
 # Example
 # Input : 20 30 10
 # Output : 30
-
 def greatest_three_number(num1,num2,num3):
     sol=max(num1,num2,num3)
     return sol
