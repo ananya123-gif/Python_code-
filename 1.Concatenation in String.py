@@ -5,15 +5,18 @@ Case 1: num1 = add all numbers which do not lie between 5 and 8 in the input.
 Case 2: num2= numbers formed by concatenating all numbers from 5 to 8.
 Output: sum of num1 and num2
 
+
 Example: 
 input: 3,2,6,5,1,4,8,9
 Num1 : 3+2+6+9 =20
 Num2: 5148
 output: 5148+20 = 5168'''
 
+
 #***************************************SOLUTION**********************************************#
 
 #A comma seprated string 
+
 s=input().split(',')
 
 #Fetch the index of numbers 5 and 8
