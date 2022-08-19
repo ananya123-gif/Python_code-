@@ -10,7 +10,7 @@ def smallest_ele(a):
         if(a[i]<m):
             m=a[i]
     s2=m
-    print("By using direct function min",s1)
+    print("By using direct function min : ",s1)
     print("By loop",s2)
 
 a=list(map(int,input().split(" ")))
