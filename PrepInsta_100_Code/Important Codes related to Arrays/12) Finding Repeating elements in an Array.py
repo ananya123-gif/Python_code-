@@ -6,6 +6,7 @@
 
 # Explanation : 40, 30 and 50 are occur 1 time in the given array, 10 occurs 2 times and 20 occurs 3 times
 
+
 def repeat_ele(arr):
     l=[]
     for i in arr:
