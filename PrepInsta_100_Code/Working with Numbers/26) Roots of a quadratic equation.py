@@ -4,7 +4,6 @@
 # r2 = -b-sqrt(b^2-4ac)/2a
 
 # Example:
-
 # 1 4 4
 # Roots are :  -2.0 -2.0
 
